@@ -1,0 +1,15 @@
+*.env
+*.pyc
+*.venv
+*.csv
+*.md
+all_countries_weather_technical
+all_countries_government_politics_texts
+all_countries_government_politics_technical
+all_countries_general_news_texts
+all_countries_general_news_technical
+all_countries_electricity_texts
+all_countries_electricity_technical
+generation_rebuild_check
+text_collection_all_needed
+all_countries_weather_texts
